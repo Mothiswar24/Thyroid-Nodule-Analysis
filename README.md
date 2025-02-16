@@ -12,16 +12,16 @@ This project focuses on developing an automated diagnostic tool to classify thyr
     🔹Transfer Learning (VGG, ResNet): Uses pre-trained models to extract high-level features.
     🔹Machine Learning Classifiers (KNN, SVM, Random Forest): Utilized for feature-based classification.
     
-  🔹Dataset:
-      Algerian Ultrasound Images Thyroid Dataset (AUITD) with 1,937 labeled images (benign, malignant, normal).
+  🔹**Dataset:**
+       Algerian Ultrasound Images Thyroid Dataset (AUITD) with 1,937 labeled images (benign, malignant, normal).
 
-  🔹Data Processing Techniques:
+  🔹**Data Processing Techniques:**
       Image Preprocessing: Normalization, resizing, noise removal.
       Data Augmentation: Rotation, flipping, zooming to increase dataset variability.
       
-  🔹Evaluation Metrics:
+  🔹**Evaluation Metrics:**
       Accuracy, Precision, Recall, F1-score to measure classification performance.
       
-  🔹Key Findings:
+  🔹**Key Findings:**
       LSTM model achieved the highest test accuracy of 73.13%.
       Overfitting observed due to class imbalance; future improvements include GANs & SMOTE for synthetic data generation.
