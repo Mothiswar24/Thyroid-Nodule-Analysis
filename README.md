@@ -16,7 +16,7 @@ This project focuses on developing an automated diagnostic tool to classify thyr
 🔹Algerian Ultrasound Images Thyroid Dataset (AUITD) with 1,937 labeled images (benign, malignant, normal).
 
 **Data Processing Techniques:**<br>
-🔹Image Preprocessing: Normalization, resizing, noise removal.
+🔹Image Preprocessing: Normalization, resizing, noise removal.<br>
 🔹Data Augmentation: Rotation, flipping, zooming to increase dataset variability.
       
 **Evaluation Metrics:**<br>
